@@ -9,6 +9,7 @@ Functionalities include:
 recorded.
 5. Displaying a GUI, built using Tkinter framework and Object-Oriented Programming principles, to filter finiacial records. The GUI consists of a Treeview with columns including data from the finance tracker, a searchbar and buttons to choose a search criteria. Several functions may be performed using this, including sorting the data in ascending/descending order based on the column heading clicked and choosing a search criteria and typing a value to filter out in among the records of the Finance Tracker.
 
+
 The provided Python and JSON files allow a user to create and manage their own personal finance tracker. The set-up information is as follows:
 1. Ensure Python is installed, download all files provided and save them in a root folder.
 2. All files (Python file(s) and JSON file(s)) should be available in the same folder or location to ensure the Python program will be able to access data stored in the JSON file. If not a message shall be displayed to the user stating that the transactions could not be found.
