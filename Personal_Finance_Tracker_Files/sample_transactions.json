@@ -1,0 +1,29 @@
+{
+  "Groceries": [
+    {"amount": "5000.00", "type": "Expense", "date": "2024-03-31"},
+    {"amount": "4000.00", "type": "Expense", "date": "2024-05-17"},
+    {"amount": "7000.00", "type": "Expense", "date": "2024-07-06"}
+  ],
+  "Online purchase": [
+    {"amount": "1000.00", "type": "Expense", "date": "2024-04-02"}
+  ],
+  "Salary": [
+    {"amount": "80000.00", "type": "Income", "date": "2024-05-31"},
+    {"amount": "76000.00", "type": "Income", "date": "2024-06-30"}
+  ],
+  "Bonus salary": [
+    {"amount": "10000.00", "type": "Income", "date": "2024-05-15"}
+  ],
+  "Snacks": [
+    {"amount": "1250.00", "type": "Expense", "date": "2024-04-13"}
+  ],
+  "Clothes": [
+    {"amount": "4000.00", "type": "Expense", "date": "2024-03-04"}
+  ],
+  "Electricity bill": [
+    {"amount": "10000.00", "type": "Expense", "date": "2024-06-24"}
+  ],
+  "Concert tickets": [
+    {"amount": "30000.00", "type": "Expense", "date": "2024-07-01"}
+  ]
+}
